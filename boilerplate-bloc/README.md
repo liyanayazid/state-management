@@ -1,6 +1,6 @@
 # state_managemenet
 
-A new Flutter project.
+Refactor flutter boilerplate app to work with bloc.
 
 ## Getting Started
 
